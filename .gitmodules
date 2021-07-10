@@ -1,0 +1,3 @@
+[submodule "src/lisa"]
+	path = src/lisa
+	url = https://github.com/raul-front/lisa-mobile.git
