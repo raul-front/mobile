@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "amfe-flexible": "^2.2.1",
     "axios": "^0.21.1",
     "dayjs": "^1.10.5",
     "fastclick": "^1.0.6",
@@ -20,7 +21,6 @@
     "@vue/cli-plugin-eslint": "^4.5.13",
     "@vue/compiler-sfc": "^3.0.5",
     "@vue/eslint-config-standard": "^6.0.0",
-    "amfe-flexible": "^2.2.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.30.0",
     "eslint-plugin-import": "^2.23.4",
